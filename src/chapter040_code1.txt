@@ -1,0 +1,23 @@
+NotesApp/                                    # 项目三笔记 App 终版工程根目录（第 33-39 章逐步搭建）
+├── NotesApp.xcodeproj                       # Xcode 26 工程文件，部署目标 iOS 26
+├── NotesApp/
+│   ├── NotesApp.swift                       # App 入口（第 33-35 章）：App 协议 + .modelContainer(for: Note.self) 注入 SwiftData 容器，根视图为 ContentView
+│   │
+│   ├── Models/                              # 数据模型层（第 34、36 章）：SwiftData @Model 定义
+│   │   └── Note.swift                       # 笔记模型（第 34 章定义，第 36 章新增 imageData）：title、content、updatedAt、imageData 四个字段
+│   │
+│   ├── Views/                               # 页面层（第 35-36 章）
+│   │   ├── ContentView.swift                # 根导航（第 35 章）：TabView 切「笔记/设置」两个标签，标签内直接放视图
+│   │   ├── NoteListView.swift               # 笔记列表（第 34 章建立，第 36 章加手势）：内含 NavigationStack + @Query + List + 左滑删除 + 长按菜单
+│   │   ├── NoteEditView.swift               # 笔记编辑页（第 34 章建立，第 36 章扩展）：TextEditor 编辑正文 + AttributedString 加粗演示 + PhotosPicker 插图，写回 ModelContext
+│   │   ├── SettingsView.swift               # 设置页（第 35 章）：自带 NavigationStack，@AppStorage 主题偏好 + 触发后台同步
+│   │   └── AboutView.swift                  # 关于页（第 35 章）：设置标签内的纵深子页
+│   │
+│   ├── Concurrency/                         # 并发与同步层（第 37 章）
+│   │   ├── NoteSyncEngine.swift             # 后台同步引擎（第 37 章）：actor 串行化保护 localCache/syncedCount/lastSyncedAt
+│   │   └── NoteDTO.swift                    # 同步数据载体（第 37 章）：Sendable 结构体，安全跨并发域传递
+│   │
+│   └── Assets.xcassets                      # 图标与配色资源（第 39 章上架准备）
+│
+└── NotesAppTests/                           # 单元测试 target（第 38 章）：XCTest
+    └── NoteSyncEngineTests.swift            # 同步引擎测试（第 38 章）：验证 actor 合并逻辑、去重不回退、错误抛出

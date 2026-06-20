@@ -1,0 +1,4 @@
+开始测试：缺少 weather_code 字段
+缺少字段：weather_code，位置：current
+开始测试：temperature_2m 类型错误
+类型不匹配：期望 Double，位置：current.temperature_2m

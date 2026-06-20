@@ -1,0 +1,5 @@
+$ cd ~/swift-practice
+$ swift hello.swift
+Hello, World!
+$ echo $?
+0

@@ -1,0 +1,12 @@
+<!--
+  重要：本章 NotesApp 只用 PhotosPicker 选图，运行在独立系统进程中，
+  不获得整库访问权，因此【不需要】下面这个键。此处仅作为「将来直接访问相册库」的示例。
+
+  NSPhotoLibraryUsageDescription：直接访问用户相册库的用途说明。
+  仅在 App 调用 PHPhotoLibrary 请求相册授权、或使用旧式 UIImagePickerController
+  直接读取相册时才需要。届时 iOS 会在弹出授权框时把这段文字显示给用户。
+  （若是把图片写回系统相册，需要的是 NSPhotoLibraryAddUsageDescription。）
+  说明文字要讲清「为什么需要」，禁止写「为了更好的体验」这类无意义套话。
+-->
+<key>NSPhotoLibraryUsageDescription</key>
+<string>笔记 App 需要访问你的相册，以便你为笔记批量导入图片。我们仅读取你授权的内容，不会自动上传其他照片。</string>

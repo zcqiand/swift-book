@@ -1,0 +1,3 @@
+try? 成功结果：Optional("Soda")
+try? 失败结果：nil
+try? 只留下 nil，没有保留缺货或余额不足的具体原因

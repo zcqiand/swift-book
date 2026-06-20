@@ -1,0 +1,3 @@
+$ swift --version
+swift-driver version: ...
+Swift version 6.2 (swiftlang-6.2.x target: arm64-apple-macosxXX.x)

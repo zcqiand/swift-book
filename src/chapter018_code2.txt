@@ -1,0 +1,1 @@
+已经定义售货机错误类型：insufficientFunds(coinsNeeded: 3)

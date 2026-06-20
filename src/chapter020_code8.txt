@@ -1,0 +1,2 @@
+任务 A 读取配置：https://api.example.com，超时 30 秒
+任务 B 读取配置：https://api.example.com，超时 30 秒

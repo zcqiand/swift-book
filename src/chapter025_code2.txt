@@ -1,0 +1,3 @@
+已存的 nightMode = true
+object(forKey:) 未存过的 key = nil
+bool(forKey:)   未存过的 key = false  (类型默认值)

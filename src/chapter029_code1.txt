@@ -1,0 +1,1 @@
+current=temperature_2m,weather_code,wind_speed_10m

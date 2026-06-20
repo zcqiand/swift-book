@@ -1,0 +1,11 @@
+WeatherApp/
+├── WeatherApp.swift
+├── README.md
+├── Models/
+│   └── Weather.swift
+├── Networking/
+│   └── WeatherService.swift
+├── Views/
+│   └── ContentView.swift
+└── ViewModels/
+    └── WeatherViewModel.swift

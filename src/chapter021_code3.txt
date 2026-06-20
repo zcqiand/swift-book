@@ -1,0 +1,6 @@
+HelloSwiftUI/
+├── HelloSwiftUIApp.swift        # App 入口（含 @main）
+├── ContentView.swift            # 主视图（含 Text）
+├── Assets.xcassets              # 资源目录（图标、颜色）
+└── Preview Content/
+    └── Preview Assets.xcassets  # 预览专用资源，不打包进正式版

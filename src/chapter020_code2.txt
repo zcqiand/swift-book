@@ -1,0 +1,12 @@
+开始演示强引用循环
+创建住户：Taylor
+创建公寓：3A
+强引用循环已建立：Person 和 Apartment 互相持有
+离开强引用循环函数后，没有看到 Taylor 和 3A 的 deinit，说明它们被引用环困住
+开始演示 weak 打破循环
+创建住户：Jordan
+创建公寓：4B
+weak 引用已建立：Apartment 不再强持有 Person
+释放住户：Jordan
+释放公寓：4B
+离开 weak 示例函数后，Jordan 和 4B 已经释放
