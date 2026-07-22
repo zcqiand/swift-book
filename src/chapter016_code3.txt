@@ -1,8 +1,0 @@
-Student(score:85).grade -> 及格
-willSet: score 旧值 85 -> 新值 50
-didSet: score 旧值 85 -> 新值 50
-Student 当前 score -> 50
-Student 当前 grade -> 不及格
-Counter.defaultCount() -> 默认计数 0
-Counter 初始 count -> 0
-调用 increment 后 count -> 1

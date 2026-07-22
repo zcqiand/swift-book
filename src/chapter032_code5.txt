@@ -1,4 +1,0 @@
-List { ... }
-    .refreshable {
-        await viewModel.refreshAll()
-    }

@@ -1,2 +1,0 @@
-error: cannot assign to value: 'pi' is a 'let' constant
-note: change 'let' to 'var' to make it mutable

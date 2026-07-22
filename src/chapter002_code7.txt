@@ -1,5 +1,0 @@
-两者取值相同
-age 的类型：Int
-ageExplicit 的类型：Int
-temperature 的类型：Double
-isLoggedIn 的类型：Bool

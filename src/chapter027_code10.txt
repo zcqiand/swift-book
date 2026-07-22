@@ -1,1 +1,0 @@
-View → ViewModel → Service → REST API → Model → View

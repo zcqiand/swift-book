@@ -1,4 +1,0 @@
-HELLO SWIFT
-hello swift
-你好 SWIFT
-你好 Swift

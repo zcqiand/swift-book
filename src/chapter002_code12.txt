@@ -1,6 +1,0 @@
-stepCount 类型：Int
-pi 类型：Double
-isMember 类型：Bool
-整数除法 7 / 2 = 3
-浮点除法 7.0 / 2.0 = 3.5
-有步数：12000

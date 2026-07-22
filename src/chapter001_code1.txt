@@ -1,2 +1,0 @@
-$ xcode-select -p
-/Applications/Xcode.app/Contents/Developer
