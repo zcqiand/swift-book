@@ -1,0 +1,938 @@
+[
+  {
+    "title": "代码清单1-1: Playground 中的第一个 Hello World",
+    "lang": "swift",
+    "chapter_file": "chapter-001.md",
+    "line": 91,
+    "extracted_file": "src\\代码清单1-1_ Playground 中的第一个 Hello World.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单1-2: 命令行运行的 hello.swift 源文件",
+    "lang": "swift",
+    "chapter_file": "chapter-001.md",
+    "line": 115,
+    "extracted_file": "src\\代码清单1-2_ 命令行运行的 hello.swift 源文件.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单2-1: 用 var 声明可变计数器并重新赋值",
+    "lang": "swift",
+    "chapter_file": "chapter-002.md",
+    "line": 34,
+    "extracted_file": "src\\代码清单2-1_ 用 var 声明可变计数器并重新赋值.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单2-2: 用 let 声明常量并展示尝试重新赋值会编译报错",
+    "lang": "swift",
+    "chapter_file": "chapter-002.md",
+    "line": 56,
+    "extracted_file": "src\\代码清单2-2_ 用 let 声明常量并展示尝试重新赋值会编译报错.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单2-3: 类型推断对比——隐式与显式标注等价",
+    "lang": "swift",
+    "chapter_file": "chapter-002.md",
+    "line": 96,
+    "extracted_file": "src\\代码清单2-3_ 类型推断对比——隐式与显式标注等价.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单2-4: 类型安全演示——跨类型赋值被编译器拒绝",
+    "lang": "swift",
+    "chapter_file": "chapter-002.md",
+    "line": 133,
+    "extracted_file": "src\\代码清单2-4_ 类型安全演示——跨类型赋值被编译器拒绝.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单2-5: 完整 Playground 示例——声明三类基本数据并用 type(of:) 验证",
+    "lang": "swift",
+    "chapter_file": "chapter-002.md",
+    "line": 189,
+    "extracted_file": "src\\代码清单2-5_ 完整 Playground 示例——声明三类基本数据并用 type(of_) 验证.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单3-1: 声明字符串与字符",
+    "lang": "swift",
+    "chapter_file": "chapter-003.md",
+    "line": 30,
+    "extracted_file": "src\\代码清单3-1_ 声明字符串与字符.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单3-2: 字符串插值构造动态欢迎语",
+    "lang": "swift",
+    "chapter_file": "chapter-003.md",
+    "line": 62,
+    "extracted_file": "src\\代码清单3-2_ 字符串插值构造动态欢迎语.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单3-3: 拼接+与插值对比",
+    "lang": "swift",
+    "chapter_file": "chapter-003.md",
+    "line": 90,
+    "extracted_file": "src\\代码清单3-3_ 拼接+与插值对比.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单3-4: 大小写转换",
+    "lang": "swift",
+    "chapter_file": "chapter-003.md",
+    "line": 123,
+    "extracted_file": "src\\代码清单3-4_ 大小写转换.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单3-5: 常用方法 count/contains/hasPrefix/replacing",
+    "lang": "swift",
+    "chapter_file": "chapter-003.md",
+    "line": 161,
+    "extracted_file": "src\\代码清单3-5_ 常用方法 count_contains_hasPrefix_replacing.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单3-6: 字符迭代",
+    "lang": "swift",
+    "chapter_file": "chapter-003.md",
+    "line": 192,
+    "extracted_file": "src\\代码清单3-6_ 字符迭代.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单4-1: 整数除法与浮点除法对比",
+    "lang": "swift",
+    "chapter_file": "chapter-004.md",
+    "line": 19,
+    "extracted_file": "src\\代码清单4-1_ 整数除法与浮点除法对比.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单4-2: 比较运算符判断及格",
+    "lang": "swift",
+    "chapter_file": "chapter-004.md",
+    "line": 52,
+    "extracted_file": "src\\代码清单4-2_ 比较运算符判断及格.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单4-3: 逻辑运算符组合登录条件",
+    "lang": "swift",
+    "chapter_file": "chapter-004.md",
+    "line": 68,
+    "extracted_file": "src\\代码清单4-3_ 逻辑运算符组合登录条件.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单4-4: 短路求值防止数组越界",
+    "lang": "swift",
+    "chapter_file": "chapter-004.md",
+    "line": 88,
+    "extracted_file": "src\\代码清单4-4_ 短路求值防止数组越界.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单4-5: 闭区间含头含尾遍历",
+    "lang": "swift",
+    "chapter_file": "chapter-004.md",
+    "line": 105,
+    "extracted_file": "src\\代码清单4-5_ 闭区间含头含尾遍历.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单4-6: 半开区间不含尾遍历",
+    "lang": "swift",
+    "chapter_file": "chapter-004.md",
+    "line": 116,
+    "extracted_file": "src\\代码清单4-6_ 半开区间不含尾遍历.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单4-7: 区间运算符切片数组",
+    "lang": "swift",
+    "chapter_file": "chapter-004.md",
+    "line": 126,
+    "extracted_file": "src\\代码清单4-7_ 区间运算符切片数组.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单4-8: 空合运算符提供默认值",
+    "lang": "swift",
+    "chapter_file": "chapter-004.md",
+    "line": 144,
+    "extracted_file": "src\\代码清单4-8_ 空合运算符提供默认值.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单4-9: 五类运算符完整演示",
+    "lang": "swift",
+    "chapter_file": "chapter-004.md",
+    "line": 169,
+    "extracted_file": "src\\代码清单4-9_ 五类运算符完整演示.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-1: 创建空数组并标注元素类型",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 34,
+    "extracted_file": "src\\代码清单5-1_ 创建空数组并标注元素类型.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-2: 不同元素类型的数组",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 48,
+    "extracted_file": "src\\代码清单5-2_ 不同元素类型的数组.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-3: 用 count 获取元素个数",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 62,
+    "extracted_file": "src\\代码清单5-3_ 用 count 获取元素个数.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-4: 待办事项列表的起始状态",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 71,
+    "extracted_file": "src\\代码清单5-4_ 待办事项列表的起始状态.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-5: 用 append 追加新待办",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 79,
+    "extracted_file": "src\\代码清单5-5_ 用 append 追加新待办.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-6: 按下标读取与修改元素",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 89,
+    "extracted_file": "src\\代码清单5-6_ 按下标读取与修改元素.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-7: 用 remove(at:) 删除指定下标",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 100,
+    "extracted_file": "src\\代码清单5-7_ 用 remove(at_) 删除指定下标.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-8: 用 contains 判断元素是否存在",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 114,
+    "extracted_file": "src\\代码清单5-8_ 用 contains 判断元素是否存在.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-9: for-in 遍历数组逐项打印",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 125,
+    "extracted_file": "src\\代码清单5-9_ for-in 遍历数组逐项打印.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-10: 用下标遍历并编号打印",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 138,
+    "extracted_file": "src\\代码清单5-10_ 用下标遍历并编号打印.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-11: sorted() 升序排序",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 160,
+    "extracted_file": "src\\代码清单5-11_ sorted() 升序排序.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-12: sorted(by:) 降序排序",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 169,
+    "extracted_file": "src\\代码清单5-12_ sorted(by_) 降序排序.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-13: contains 判断数值是否存在",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 178,
+    "extracted_file": "src\\代码清单5-13_ contains 判断数值是否存在.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-14: 对成绩数组的完整加工",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 187,
+    "extracted_file": "src\\代码清单5-14_ 对成绩数组的完整加工.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-15: 数组赋值是复制而非共享",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 204,
+    "extracted_file": "src\\代码清单5-15_ 数组赋值是复制而非共享.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单5-16: 待办事项列表与成绩加工的完整演示",
+    "lang": "swift",
+    "chapter_file": "chapter-005.md",
+    "line": 219,
+    "extracted_file": "src\\代码清单5-16_ 待办事项列表与成绩加工的完整演示.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单6-1: 创建城市天气字典并新增/修改/按键删除",
+    "lang": "swift",
+    "chapter_file": "chapter-006.md",
+    "line": 26,
+    "extracted_file": "src\\代码清单6-1_ 创建城市天气字典并新增_修改_按键删除.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单6-2: 字典取值返回可选型——Swift 的安全提醒",
+    "lang": "swift",
+    "chapter_file": "chapter-006.md",
+    "line": 59,
+    "extracted_file": "src\\代码清单6-2_ 字典取值返回可选型——Swift 的安全提醒.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单6-3: 字典遍历 for (key, value)",
+    "lang": "swift",
+    "chapter_file": "chapter-006.md",
+    "line": 82,
+    "extracted_file": "src\\代码清单6-3_ 字典遍历 for (key, value).swift",
+    "source": null
+  },
+  {
+    "title": "代码清单6-4: Set 创建去重 + insert / remove / contains",
+    "lang": "swift",
+    "chapter_file": "chapter-006.md",
+    "line": 115,
+    "extracted_file": "src\\代码清单6-4_ Set 创建去重 + insert _ remove _ contains.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单6-5: Set 集合运算 intersection / union / subtracting",
+    "lang": "swift",
+    "chapter_file": "chapter-006.md",
+    "line": 147,
+    "extracted_file": "src\\代码清单6-5_ Set 集合运算 intersection _ union _ subtracting.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单7-6: if / else if / else 结构骨架",
+    "lang": "swift",
+    "chapter_file": "chapter-007.md",
+    "line": 42,
+    "extracted_file": "src\\代码清单7-6_ if _ else if _ else 结构骨架.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单7-1: if / else if / else 分数段评级",
+    "lang": "swift",
+    "chapter_file": "chapter-007.md",
+    "line": 64,
+    "extracted_file": "src\\代码清单7-1_ if _ else if _ else 分数段评级.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单7-7: guard 提前退出结构骨架",
+    "lang": "swift",
+    "chapter_file": "chapter-007.md",
+    "line": 97,
+    "extracted_file": "src\\代码清单7-7_ guard 提前退出结构骨架.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单7-2: guard 提前退出——校验用户名非空",
+    "lang": "swift",
+    "chapter_file": "chapter-007.md",
+    "line": 109,
+    "extracted_file": "src\\代码清单7-2_ guard 提前退出——校验用户名非空.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单7-3: func gradeScore 用 switch 区间匹配",
+    "lang": "swift",
+    "chapter_file": "chapter-007.md",
+    "line": 155,
+    "extracted_file": "src\\代码清单7-3_ func gradeScore 用 switch 区间匹配.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单7-4a: switch 处理交通灯枚举——完整匹配",
+    "lang": "swift",
+    "chapter_file": "chapter-007.md",
+    "line": 181,
+    "extracted_file": "src\\代码清单7-4a_ switch 处理交通灯枚举——完整匹配.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单7-4b: switch 漏 case——演示编译器穷尽性检查（不会编译通过）",
+    "lang": "swift",
+    "chapter_file": "chapter-007.md",
+    "line": 207,
+    "extracted_file": "src\\代码清单7-4b_ switch 漏 case——演示编译器穷尽性检查（不会编译通过）.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单7-5: 第7章综合演示 Playground（完整可运行）",
+    "lang": "swift",
+    "chapter_file": "chapter-007.md",
+    "line": 247,
+    "extracted_file": "src\\代码清单7-5_ 第7章综合演示 Playground（完整可运行）.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单8-1: for-in 配合闭区间 1...5 打印五天问候",
+    "lang": "swift",
+    "chapter_file": "chapter-008.md",
+    "line": 39,
+    "extracted_file": "src\\代码清单8-1_ for-in 配合闭区间 1...5 打印五天问候.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单8-2: for-in 配合 enumerated() 遍历待办数组",
+    "lang": "swift",
+    "chapter_file": "chapter-008.md",
+    "line": 65,
+    "extracted_file": "src\\代码清单8-2_ for-in 配合 enumerated() 遍历待办数组.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单8-3: while 先判后执——100 倒数到 0 才发射",
+    "lang": "swift",
+    "chapter_file": "chapter-008.md",
+    "line": 94,
+    "extracted_file": "src\\代码清单8-3_ while 先判后执——100 倒数到 0 才发射.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单8-4: repeat-while 先执后判——摇到 6 才停",
+    "lang": "swift",
+    "chapter_file": "chapter-008.md",
+    "line": 144,
+    "extracted_file": "src\\代码清单8-4_ repeat-while 先执后判——摇到 6 才停.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单8-5: break 与 continue 对照——同一 for n in 1...10",
+    "lang": "swift",
+    "chapter_file": "chapter-008.md",
+    "line": 199,
+    "extracted_file": "src\\代码清单8-5_ break 与 continue 对照——同一 for n in 1...10.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单9-1: 声明可选型——nil vs Tom 对比",
+    "lang": "swift",
+    "chapter_file": "chapter-009.md",
+    "line": 41,
+    "extracted_file": "src\\代码清单9-1_ 声明可选型——nil vs Tom 对比.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单9-2: if let 安全解包",
+    "lang": "swift",
+    "chapter_file": "chapter-009.md",
+    "line": 77,
+    "extracted_file": "src\\代码清单9-2_ if let 安全解包.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单9-3: guard let 提前退出(兑现第7章7.4节钩子)",
+    "lang": "swift",
+    "chapter_file": "chapter-009.md",
+    "line": 123,
+    "extracted_file": "src\\代码清单9-3_ guard let 提前退出(兑现第7章7.4节钩子).swift",
+    "source": null
+  },
+  {
+    "title": "代码清单9-4: 空合 ?? 提供默认值",
+    "lang": "swift",
+    "chapter_file": "chapter-009.md",
+    "line": 157,
+    "extracted_file": "src\\代码清单9-4_ 空合 __ 提供默认值.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单9-5: 强制解包 ! 陷阱——?? vs ! 对比",
+    "lang": "swift",
+    "chapter_file": "chapter-009.md",
+    "line": 197,
+    "extracted_file": "src\\代码清单9-5_ 强制解包 ! 陷阱——__ vs ! 对比.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单9-6: 第9章综合 Playground(三种安全解包 + 强制解包崩溃演示)",
+    "lang": "swift",
+    "chapter_file": "chapter-009.md",
+    "line": 257,
+    "extracted_file": "src\\代码清单9-6_ 第9章综合 Playground(三种安全解包 + 强制解包崩溃演示).swift",
+    "source": null
+  },
+  {
+    "title": "代码清单10-1: func greet(name:) 定义与调用",
+    "lang": "swift",
+    "chapter_file": "chapter-010.md",
+    "line": 53,
+    "extracted_file": "src\\代码清单10-1_ func greet(name_) 定义与调用.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单10-2: 参数标签与内部名分离 + 下划线省略标签",
+    "lang": "swift",
+    "chapter_file": "chapter-010.md",
+    "line": 95,
+    "extracted_file": "src\\代码清单10-2_ 参数标签与内部名分离 + 下划线省略标签.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单10-3: 默认值参数(合法用法)",
+    "lang": "swift",
+    "chapter_file": "chapter-010.md",
+    "line": 148,
+    "extracted_file": "src\\代码清单10-3_ 默认值参数(合法用法).swift",
+    "source": null
+  },
+  {
+    "title": "代码清单10-3b: 默认值参数顺序违反——演示编译器报错(不会编译通过)",
+    "lang": "swift",
+    "chapter_file": "chapter-010.md",
+    "line": 174,
+    "extracted_file": "src\\代码清单10-3b_ 默认值参数顺序违反——演示编译器报错(不会编译通过).swift",
+    "source": null
+  },
+  {
+    "title": "代码清单10-3c: 默认值参数顺序修复(合法写法)",
+    "lang": "swift",
+    "chapter_file": "chapter-010.md",
+    "line": 190,
+    "extracted_file": "src\\代码清单10-3c_ 默认值参数顺序修复(合法写法).swift",
+    "source": null
+  },
+  {
+    "title": "代码清单10-4: 元组多返回值——minMax",
+    "lang": "swift",
+    "chapter_file": "chapter-010.md",
+    "line": 220,
+    "extracted_file": "src\\代码清单10-4_ 元组多返回值——minMax.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单10-5: 第10章综合 Playground(三个 greet 变体 + minMax 元组返回)",
+    "lang": "swift",
+    "chapter_file": "chapter-010.md",
+    "line": 299,
+    "extracted_file": "src\\代码清单10-5_ 第10章综合 Playground(三个 greet 变体 + minMax 元组返回).swift",
+    "source": null
+  },
+  {
+    "title": "代码清单11-1: sorted(by:) 三层简写链",
+    "lang": "swift",
+    "chapter_file": "chapter-011.md",
+    "line": 50,
+    "extracted_file": "src\\代码清单11-1_ sorted(by_) 三层简写链.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单11-2: 尾随闭包——自定义 process 函数",
+    "lang": "swift",
+    "chapter_file": "chapter-011.md",
+    "line": 93,
+    "extracted_file": "src\\代码清单11-2_ 尾随闭包——自定义 process 函数.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单11-3: 闭包捕获外层 var 是引用捕获",
+    "lang": "swift",
+    "chapter_file": "chapter-011.md",
+    "line": 138,
+    "extracted_file": "src\\代码清单11-3_ 闭包捕获外层 var 是引用捕获.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单11-4: @escaping 逃逸闭包——最简 class + DispatchQueue",
+    "lang": "swift",
+    "chapter_file": "chapter-011.md",
+    "line": 184,
+    "extracted_file": "src\\代码清单11-4_ @escaping 逃逸闭包——最简 class + DispatchQueue.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单11-5: 第11章综合 Playground——四种闭包用法整合",
+    "lang": "swift",
+    "chapter_file": "chapter-011.md",
+    "line": 232,
+    "extracted_file": "src\\代码清单11-5_ 第11章综合 Playground——四种闭包用法整合.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单12-1: map 把每个价格打八折——闭包版与等价 for 循环版对照",
+    "lang": "swift",
+    "chapter_file": "chapter-012.md",
+    "line": 54,
+    "extracted_file": "src\\代码清单12-1_ map 把每个价格打八折——闭包版与等价 for 循环版对照.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单12-2: filter 筛选大于等于 20 的价格——保留规则实证",
+    "lang": "swift",
+    "chapter_file": "chapter-012.md",
+    "line": 103,
+    "extracted_file": "src\\代码清单12-2_ filter 筛选大于等于 20 的价格——保留规则实证.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单12-3: reduce 把所有价格求和——初始值与累加器签名",
+    "lang": "swift",
+    "chapter_file": "chapter-012.md",
+    "line": 158,
+    "extracted_file": "src\\代码清单12-3_ reduce 把所有价格求和——初始值与累加器签名.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单12-4: forEach 逐行打印——与 map/for-in 的边界",
+    "lang": "swift",
+    "chapter_file": "chapter-012.md",
+    "line": 221,
+    "extracted_file": "src\\代码清单12-4_ forEach 逐行打印——与 map_for-in 的边界.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单12-5: 第12章综合 Playground——map/filter/reduce/forEach 全对照",
+    "lang": "swift",
+    "chapter_file": "chapter-012.md",
+    "line": 318,
+    "extracted_file": "src\\代码清单12-5_ 第12章综合 Playground——map_filter_reduce_forEach 全对照.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单22-6: VStack 尾随闭包两种等价写法",
+    "lang": "swift",
+    "chapter_file": "chapter-022.md",
+    "line": 161,
+    "extracted_file": "src\\代码清单22-6_ VStack 尾随闭包两种等价写法.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单22-7: 修饰符链逐层包裹拆解",
+    "lang": "swift",
+    "chapter_file": "chapter-022.md",
+    "line": 185,
+    "extracted_file": "src\\代码清单22-7_ 修饰符链逐层包裹拆解.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单27-6: README.md 工程决策记录",
+    "lang": "markdown",
+    "chapter_file": "chapter-027.md",
+    "line": 235,
+    "extracted_file": "src\\代码清单27-6_ README.md 工程决策记录.md",
+    "source": null
+  },
+  {
+    "title": "代码清单29-5: 天气响应 JSON 结构示例",
+    "lang": "json",
+    "chapter_file": "chapter-029.md",
+    "line": 41,
+    "extracted_file": "src\\代码清单29-5_ 天气响应 JSON 结构示例.json",
+    "source": null
+  },
+  {
+    "title": "代码清单29-6: 解码 Data 为模型核心两行",
+    "lang": "swift",
+    "chapter_file": "chapter-029.md",
+    "line": 211,
+    "extracted_file": "src\\代码清单29-6_ 解码 Data 为模型核心两行.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单33-1: NotesApp 应用入口",
+    "lang": "swift",
+    "chapter_file": "chapter-033.md",
+    "line": 161,
+    "extracted_file": "src\\代码清单33-1_ NotesApp 应用入口.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单33-2: 初始占位界面 ContentView",
+    "lang": "swift",
+    "chapter_file": "chapter-033.md",
+    "line": 185,
+    "extracted_file": "src\\代码清单33-2_ 初始占位界面 ContentView.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单34-1: 用 @Model 定义可持久化的笔记模型 Note.swift",
+    "lang": "swift",
+    "chapter_file": "chapter-034.md",
+    "line": 40,
+    "extracted_file": "src\\代码清单34-1_ 用 @Model 定义可持久化的笔记模型 Note.swift.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单34-2: 在 App 入口注入 ModelContainer",
+    "lang": "swift",
+    "chapter_file": "chapter-034.md",
+    "line": 87,
+    "extracted_file": "src\\代码清单34-2_ 在 App 入口注入 ModelContainer.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单34-3: 显式构造 ModelContainer 并捕获错误",
+    "lang": "swift",
+    "chapter_file": "chapter-034.md",
+    "line": 113,
+    "extracted_file": "src\\代码清单34-3_ 显式构造 ModelContainer 并捕获错误.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单34-4: 笔记列表 NoteListView.swift(查询、新增、删除、导航)",
+    "lang": "swift",
+    "chapter_file": "chapter-034.md",
+    "line": 165,
+    "extracted_file": "src\\代码清单34-4_ 笔记列表 NoteListView.swift(查询、新增、删除、导航).swift",
+    "source": null
+  },
+  {
+    "title": "代码清单34-5: 编辑笔记并自动持久化 NoteEditView.swift",
+    "lang": "swift",
+    "chapter_file": "chapter-034.md",
+    "line": 259,
+    "extracted_file": "src\\代码清单34-5_ 编辑笔记并自动持久化 NoteEditView.swift.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单35-1: ContentView——TabView 主架构(笔记 Tab + 设置 Tab)",
+    "lang": "swift",
+    "chapter_file": "chapter-035.md",
+    "line": 46,
+    "extracted_file": "src\\代码清单35-1_ ContentView——TabView 主架构(笔记 Tab + 设置 Tab).swift",
+    "source": null
+  },
+  {
+    "title": "代码清单35-2: NotesApp.swift——入口根视图从 NoteListView 改为 ContentView",
+    "lang": "swift",
+    "chapter_file": "chapter-035.md",
+    "line": 89,
+    "extracted_file": "src\\代码清单35-2_ NotesApp.swift——入口根视图从 NoteListView 改为 ContentView.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单35-3: SettingsView——设置页(@AppStorage 主题 + 跳转关于页)",
+    "lang": "swift",
+    "chapter_file": "chapter-035.md",
+    "line": 142,
+    "extracted_file": "src\\代码清单35-3_ SettingsView——设置页(@AppStorage 主题 + 跳转关于页).swift",
+    "source": null
+  },
+  {
+    "title": "代码清单35-4: AboutView——关于页(设置 Tab 内的纵深子页)",
+    "lang": "swift",
+    "chapter_file": "chapter-035.md",
+    "line": 248,
+    "extracted_file": "src\\代码清单35-4_ AboutView——关于页(设置 Tab 内的纵深子页).swift",
+    "source": null
+  },
+  {
+    "title": "代码清单35-5: NoteListView 增强版——用 NavigationPath 做编程式跳转与一键回根",
+    "lang": "swift",
+    "chapter_file": "chapter-035.md",
+    "line": 330,
+    "extracted_file": "src\\代码清单35-5_ NoteListView 增强版——用 NavigationPath 做编程式跳转与一键回根.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单36-1: 更新后的 Note 数据模型,新增 imageData 字段",
+    "lang": "swift",
+    "chapter_file": "chapter-036.md",
+    "line": 40,
+    "extracted_file": "src\\代码清单36-1_ 更新后的 Note 数据模型,新增 imageData 字段.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单36-2: 笔记编辑页 NoteEditView,含 TextEditor、AttributedString 加粗、PhotosPicker 选图",
+    "lang": "swift",
+    "chapter_file": "chapter-036.md",
+    "line": 82,
+    "extracted_file": "src\\代码清单36-2_ 笔记编辑页 NoteEditView,含 TextEditor、AttributedString 加粗、PhotosPicker 选图.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单36-3: 笔记列表 NoteListView,含 swipeActions 左滑删除与 contextMenu 长按菜单",
+    "lang": "swift",
+    "chapter_file": "chapter-036.md",
+    "line": 270,
+    "extracted_file": "src\\代码清单36-3_ 笔记列表 NoteListView,含 swipeActions 左滑删除与 contextMenu 长按菜单.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单37-1: NoteDTO —— 跨并发域传递的 Sendable 数据载体",
+    "lang": "swift",
+    "chapter_file": "chapter-037.md",
+    "line": 62,
+    "extracted_file": "src\\代码清单37-1_ NoteDTO —— 跨并发域传递的 Sendable 数据载体.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单37-2: NoteSyncEngine —— 用 Actor 保护共享同步状态",
+    "lang": "swift",
+    "chapter_file": "chapter-037.md",
+    "line": 135,
+    "extracted_file": "src\\代码清单37-2_ NoteSyncEngine —— 用 Actor 保护共享同步状态.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单37-3: UnsafeSyncStore —— 不加保护的 class，制造数据竞争（反例）",
+    "lang": "swift",
+    "chapter_file": "chapter-037.md",
+    "line": 181,
+    "extracted_file": "src\\代码清单37-3_ UnsafeSyncStore —— 不加保护的 class，制造数据竞争（反例）.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单37-4: SyncDemo —— 后台预取、Actor 合并、回主线程刷新",
+    "lang": "swift",
+    "chapter_file": "chapter-037.md",
+    "line": 231,
+    "extracted_file": "src\\代码清单37-4_ SyncDemo —— 后台预取、Actor 合并、回主线程刷新.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单37-5: SyncDemoView —— 触发后台同步并观察主线程刷新",
+    "lang": "swift",
+    "chapter_file": "chapter-037.md",
+    "line": 304,
+    "extracted_file": "src\\代码清单37-5_ SyncDemoView —— 触发后台同步并观察主线程刷新.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单37-6: 并发 100 次调用验证 Actor 状态一致",
+    "lang": "swift",
+    "chapter_file": "chapter-037.md",
+    "line": 350,
+    "extracted_file": "src\\代码清单37-6_ 并发 100 次调用验证 Actor 状态一致.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单38-1: NoteSyncEngineTests 测试类骨架与夹具",
+    "lang": "swift",
+    "chapter_file": "chapter-038.md",
+    "line": 42,
+    "extracted_file": "src\\代码清单38-1_ NoteSyncEngineTests 测试类骨架与夹具.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单38-2: 测试 sync 新增笔记并累加计数",
+    "lang": "swift",
+    "chapter_file": "chapter-038.md",
+    "line": 98,
+    "extracted_file": "src\\代码清单38-2_ 测试 sync 新增笔记并累加计数.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单38-3: 测试同 id 旧版本不覆盖（去重不回退）",
+    "lang": "swift",
+    "chapter_file": "chapter-038.md",
+    "line": 130,
+    "extracted_file": "src\\代码清单38-3_ 测试同 id 旧版本不覆盖（去重不回退）.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单38-4: 测试非法 JSON 解码抛出错误",
+    "lang": "swift",
+    "chapter_file": "chapter-038.md",
+    "line": 170,
+    "extracted_file": "src\\代码清单38-4_ 测试非法 JSON 解码抛出错误.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单38-5: 故意写错期望值以演示测试失败",
+    "lang": "swift",
+    "chapter_file": "chapter-038.md",
+    "line": 220,
+    "extracted_file": "src\\代码清单38-5_ 故意写错期望值以演示测试失败.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单39-1: General 标签页 Identity 区域关键字段",
+    "lang": "text",
+    "chapter_file": "chapter-039.md",
+    "line": 44,
+    "extracted_file": "src\\代码清单39-1_ General 标签页 Identity 区域关键字段.txt",
+    "source": null
+  },
+  {
+    "title": "代码清单39-2: 仅当 App 直接访问相册库时才需要的用途说明键（NotesApp 当前不需要）",
+    "lang": "xml",
+    "chapter_file": "chapter-039.md",
+    "line": 74,
+    "extracted_file": "src\\代码清单39-2_ 仅当 App 直接访问相册库时才需要的用途说明键（NotesApp 当前不需要）.xml",
+    "source": null
+  },
+  {
+    "title": "代码清单40-1: App 入口 NotesApp.swift——SwiftUI App 协议与 SwiftData 容器注入",
+    "lang": "swift",
+    "chapter_file": "chapter-040.md",
+    "line": 76,
+    "extracted_file": "src\\代码清单40-1_ App 入口 NotesApp.swift——SwiftUI App 协议与 SwiftData 容器注入.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单40-2: 根 TabView——ContentView 切「笔记/设置」两标签，标签内直接放视图",
+    "lang": "swift",
+    "chapter_file": "chapter-040.md",
+    "line": 100,
+    "extracted_file": "src\\代码清单40-2_ 根 TabView——ContentView 切「笔记_设置」两标签，标签内直接放视图.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单40-3: 笔记列表页 NoteListView——内含 NavigationStack + @Query + swipeActions + contextMenu",
+    "lang": "swift",
+    "chapter_file": "chapter-040.md",
+    "line": 134,
+    "extracted_file": "src\\代码清单40-3_ 笔记列表页 NoteListView——内含 NavigationStack + @Query + swipeActions + contextMenu.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单40-4: Actor 后台同步引擎 NoteSyncEngine（第 37 章既定实现）",
+    "lang": "swift",
+    "chapter_file": "chapter-040.md",
+    "line": 236,
+    "extracted_file": "src\\代码清单40-4_ Actor 后台同步引擎 NoteSyncEngine（第 37 章既定实现）.swift",
+    "source": null
+  },
+  {
+    "title": "代码清单40-5: 设置页 await 调用 NoteSyncEngine（沿用第 37 章 sync 签名）",
+    "lang": "swift",
+    "chapter_file": "chapter-040.md",
+    "line": 278,
+    "extracted_file": "src\\代码清单40-5_ 设置页 await 调用 NoteSyncEngine（沿用第 37 章 sync 签名）.swift",
+    "source": null
+  }
+]
